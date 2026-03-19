@@ -1,8 +1,7 @@
 
 # ⚠️ Projeto descontinuado!
 
----
-# ⬛👽 Whois Alien Discord Bot
+## ⬛👽 Whois Alien Discord Bot
 
 ![0625](https://github.com/cristopherrissardi/Whois-Alien-Bot/assets/93612872/878cc6c7-64ae-4b98-9552-62ecfe4f68d0)
 
