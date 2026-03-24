@@ -1,5 +1,6 @@
 
-# ⚠️ Projeto descontinuado!
+# ⚠️ Projeto encerrado permanentemente! 
+Encerramos o projeto permanentemente, sem qualquer hipótese de retorno. O projeto nasceu com o objetivo de ser um bot multi funções de exclusividade de um único servidor pequeno, porém não agregou em nada na comunidade e decidimos encerrar permanentemente sem opção de volta. O projeto vai permanecer público para quem tiver interesse em desenvolver algo inspirado no mesmo, porém com todas as ferramentas e diferenciais sem funcionar, já que todos os itens utilizados eram resguardados sobre api-keys e as mesmas não se encontram ativas em nenhuma circunstância.
 
 ## ⬛👽 Whois Alien Discord Bot
 
